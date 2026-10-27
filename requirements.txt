@@ -1,0 +1,8 @@
+numpy>=1.25,<3
+pandas>=2.0,<3
+scikit-learn>=1.4,<2
+torch>=2.2,<3
+streamlit>=1.39,<2
+plotly>=5.20,<7
+networkx>=3.0,<4
+pytest>=8,<10
